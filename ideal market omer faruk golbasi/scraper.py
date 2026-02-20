@@ -113,9 +113,6 @@ def scrape_category(session, category_url):
             # Sunucuyu yormamak için kısa bekleme
             time.sleep(0.5)
             
-            # TODO: Test aşamasında sadece 1. sayfayı alıp çıkmak için (Tam tarama için burayı kaldırın)
-            break
-            
         except Exception as e:
             print(f"Hata oluştu: {e}")
             break
@@ -127,8 +124,8 @@ if __name__ == "__main__":
     categories = get_categories(session)
     
     all_products = []
-    # Test için ilk 2 kategoriyi gezelim (Prod ortamında tamamı gezilebilir)
-    for cat in categories[:2]:
+    # Tüm kategorileri gez
+    for cat in categories:
         prods = scrape_category(session, cat)
         all_products.extend(prods)
         

@@ -32,12 +32,13 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
+          cd "ideal market omer faruk golbasi"
           python scraper.py
 
       - name: Commit and push CSV files
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          git add data/
+          git add "ideal market omer faruk golbasi/data/"
           git commit -m "Auto-update daily prices CSV for $(date +'%Y-%m-%d')" || exit 0
           git push origin HEAD:${{ github.ref }}
