@@ -1,68 +1,101 @@
-﻿name,price,url,scraped_at
-"Billur Tuz 1,5kg Iyotlu Sofra Tuzu",69.9,https://www.ideal.com.tr/urun/billur-tuz-15kg-iyotlu-sofra-tuzu/37259 ,2026-02-20T13:44:46.932929
-Billur Tuz 500gr Iyotlu Plastik Tuzluklu,47.9,https://www.ideal.com.tr/urun/billur-tuz-500gr-iyotlu-plastik-tuzluklu/1470 ,2026-02-20T13:44:46.932987
-Billur Tuz 750gr Deniz Tuzu Gümüş,34.9,https://www.ideal.com.tr/urun/billur-tuz-750gr-deniz-tuzu-gumus/1468 ,2026-02-20T13:44:46.933028
-Damak Acı Pul Biber 40gr Extra,94.9,https://www.ideal.com.tr/urun/damak-aci-pul-biber-40gr-extra/68171 ,2026-02-20T13:44:46.933065
-Damak Himalaya Tuzu 110gr,89.9,https://www.ideal.com.tr/urun/damak-himalaya-tuzu-110gr/68169 ,2026-02-20T13:44:46.933102
-Damak Et Çeşnisi 45gr,99.9,https://www.ideal.com.tr/urun/damak-et-cesnisi-45gr/68163 ,2026-02-20T13:44:46.933136
-Damak Pasta Süsü 40gr Boncuk Mix,42.9,https://www.ideal.com.tr/urun/damak-pasta-susu-40gr-boncuk-mix/68157 ,2026-02-20T13:44:46.933171
-Damak Pasta Süsü Damla Çikolata 40gr,42.9,https://www.ideal.com.tr/urun/damak-pasta-susu-damla-cikolata-40gr/68156 ,2026-02-20T13:44:46.933204
-Damak Yer Fıstığı  25gr Helvalık,39.9,https://www.ideal.com.tr/urun/damak-yer-fistigi-25gr-helvalik/62369 ,2026-02-20T13:44:46.933236
-Kenton Karbonat 40gr,8.9,https://www.ideal.com.tr/urun/kenton-karbonat-40gr/62066 ,2026-02-20T13:44:46.933269
-Kenton Karbonat 5li,9.9,https://www.ideal.com.tr/urun/kenton-karbonat-5li/60981 ,2026-02-20T13:44:46.933301
-Billur Tuz 500gr Himalaya Doypack,99.9,https://www.ideal.com.tr/urun/billur-tuz-500gr-himalaya-doypack/59342 ,2026-02-20T13:44:46.933334
-Damak Çıtır Pane Harcı 70gr,39.9,https://www.ideal.com.tr/urun/damak-citir-pane-harci-70gr/55712 ,2026-02-20T13:44:46.933367
-Damak Tavuk Harcı 70gr,46.9,https://www.ideal.com.tr/urun/damak-tavuk-harci-70gr/55711 ,2026-02-20T13:44:46.933399
-Damak Köfte Harcı 80gr,39.9,https://www.ideal.com.tr/urun/damak-kofte-harci-80gr/55710 ,2026-02-20T13:44:46.933432
-Damak Sebzeli Baharat Çeşni 125gr,56.9,https://www.ideal.com.tr/urun/damak-sebzeli-baharat-cesni-125gr/55708 ,2026-02-20T13:44:46.933465
-Damak Tavuk Baharat Çeşni 75gr,59.9,https://www.ideal.com.tr/urun/damak-tavuk-baharat-cesni-75gr/55706 ,2026-02-20T13:44:46.933497
-Damak Antep Fıstığı Toz 30gr,199.9,https://www.ideal.com.tr/urun/damak-antep-fistigi-toz-30gr/55704 ,2026-02-20T13:44:46.933531
-Damak Kahvaltılık Poy 46gr,46.9,https://www.ideal.com.tr/urun/damak-kahvaltilik-poy-46gr/55703 ,2026-02-20T13:44:46.933563
-Damak Zerdeçal 70gr,52.9,https://www.ideal.com.tr/urun/damak-zerdecal-70gr/55702 ,2026-02-20T13:44:46.933594
-Damak Kişniş 40gr,23.9,https://www.ideal.com.tr/urun/damak-kisnis-40gr/55701 ,2026-02-20T13:44:46.933626
-Damak Köri 70gr,53.9,https://www.ideal.com.tr/urun/damak-kori-70gr/55700 ,2026-02-20T13:44:46.933658
-Damak Sarımsak Tozu 40gr,44.9,https://www.ideal.com.tr/urun/damak-sarimsak-tozu-40gr/55699 ,2026-02-20T13:44:46.933689
-Damak Kuş Üzümü 40gr,66.9,https://www.ideal.com.tr/urun/damak-kus-uzumu-40gr/55698 ,2026-02-20T13:44:46.933721
-Damak Yeni Bahar 30gr,73.9,https://www.ideal.com.tr/urun/damak-yeni-bahar-30gr/55697 ,2026-02-20T13:44:46.933753
-Damak Dolma Fıstığı 23gr,223.9,https://www.ideal.com.tr/urun/damak-dolma-fistigi-23gr/55696 ,2026-02-20T13:44:46.933786
-Damak Köfte Bahar 65gr,49.9,https://www.ideal.com.tr/urun/damak-kofte-bahar-65gr/55695 ,2026-02-20T13:44:46.933819
-Damak Dolma Bahar 40gr,35.9,https://www.ideal.com.tr/urun/damak-dolma-bahar-40gr/55694 ,2026-02-20T13:44:46.933851
-Damak Karanfil 15gr,45.9,https://www.ideal.com.tr/urun/damak-karanfil-15gr/55693 ,2026-02-20T13:44:46.933884
-Damak Karbonat 150gr,29.9,https://www.ideal.com.tr/urun/damak-karbonat-150gr/55691 ,2026-02-20T13:44:46.933915
-Damak Fesleğen 30gr,28.9,https://www.ideal.com.tr/urun/damak-feslegen-30gr/55689 ,2026-02-20T13:44:46.933947
-Damak Defne Yaprağı 6gr,26.9,https://www.ideal.com.tr/urun/damak-defne-yapragi-6gr/55688 ,2026-02-20T13:44:46.933981
-Damak Kabuk Tarçın 40gr,59.9,https://www.ideal.com.tr/urun/damak-kabuk-tarcin-40gr/55686 ,2026-02-20T13:44:46.934013
-Damak Tane Karabiber 40gr,63.9,https://www.ideal.com.tr/urun/damak-tane-karabiber-40gr/55685 ,2026-02-20T13:44:46.934054
-Damak Isot 80gr,66.9,https://www.ideal.com.tr/urun/damak-isot-80gr/55684 ,2026-02-20T13:44:46.934086
-Damak Toz Zencefil 60gr,58.9,https://www.ideal.com.tr/urun/damak-toz-zencefil-60gr/55683 ,2026-02-20T13:44:46.934118
-Damak Sumak 80gr,79.9,https://www.ideal.com.tr/urun/damak-sumak-80gr/55682 ,2026-02-20T13:44:46.934149
-Damak Acı Biber 75gr,59.9,https://www.ideal.com.tr/urun/damak-aci-biber-75gr/55680 ,2026-02-20T13:44:46.934181
-Damak Tatlı Biber 75gr,65.9,https://www.ideal.com.tr/urun/damak-tatli-biber-75gr/55679 ,2026-02-20T13:44:46.934213
-Damak Tarçın 45gr,45.9,https://www.ideal.com.tr/urun/damak-tarcin-45gr/55678 ,2026-02-20T13:44:46.934243
-Damak Susam 75gr,44.9,https://www.ideal.com.tr/urun/damak-susam-75gr/55677 ,2026-02-20T13:44:46.934275
-Damak Çörek Otu 75gr,59.9,https://www.ideal.com.tr/urun/damak-corek-otu-75gr/55676 ,2026-02-20T13:44:46.934307
-Damak Kimyon 75gr,66.9,https://www.ideal.com.tr/urun/damak-kimyon-75gr/55675 ,2026-02-20T13:44:46.934339
-Damak Hindistan Cevizi 50gr,53.9,https://www.ideal.com.tr/urun/damak-hindistan-cevizi-50gr/55674 ,2026-02-20T13:44:46.934371
-Damak Kekik 20gr,49.9,https://www.ideal.com.tr/urun/damak-kekik-20gr/55673 ,2026-02-20T13:44:46.934403
-Damak Nane 30gr,29.9,https://www.ideal.com.tr/urun/damak-nane-30gr/55672 ,2026-02-20T13:44:46.934436
-Damak Mavi Haşhaş 80gr,58.9,https://www.ideal.com.tr/urun/damak-mavi-hashas-80gr/55671 ,2026-02-20T13:44:46.934468
-Damak Limon Tuzu 275gr Kilitli Eko Poşet,95.9,https://www.ideal.com.tr/urun/damak-limon-tuzu-275gr-kilitli-eko-poset/55660 ,2026-02-20T13:44:46.934500
-Damak Hindistan Cevizi 160gr Eko Boy,144.9,https://www.ideal.com.tr/urun/damak-hindistan-cevizi-160gr-eko-boy/55659 ,2026-02-20T13:44:46.934533
-Damak Pul Biber Eko Boy 210gr,147.9,https://www.ideal.com.tr/urun/damak-pul-biber-eko-boy-210gr/55657 ,2026-02-20T13:44:46.934569
-Bağcı Siyah Zeytin Prima Jumbo Iri 180-210 Klb,550.0,https://www.ideal.com.tr/urun/bagci-siyah-zeytin-prima-jumbo-iri-180-210-klb/55980 ,2026-02-20T13:44:49.290573
-Yeşil Zeytin Biberli Kg,350.0,https://www.ideal.com.tr/urun/yesil-zeytin-biberli-kg/923 ,2026-02-20T13:44:49.290636
-Yeşil Zeytin Çizik Kg,249.9,https://www.ideal.com.tr/urun/yesil-zeytin-cizik-kg/918 ,2026-02-20T13:44:49.290693
-Siyah Zeytin Mega Boy 230-260klb,449.9,https://www.ideal.com.tr/urun/siyah-zeytin-mega-boy-230-260klb/885 ,2026-02-20T13:44:49.290739
-Bağcı Siyah Zeytin Kuru Sele Kg,435.0,https://www.ideal.com.tr/urun/bagci-siyah-zeytin-kuru-sele-kg/884 ,2026-02-20T13:44:49.290785
-Siyah Zeytin Süper Jumbo Boy 200-230 Klb Kg,499.9,https://www.ideal.com.tr/urun/siyah-zeytin-super-jumbo-boy-200-230-klb-kg/881 ,2026-02-20T13:44:49.290828
-Siyah Zeytin Özel Iri 290-320 Klb Kg,199.9,https://www.ideal.com.tr/urun/siyah-zeytin-ozel-iri-290-320-klb-kg/879 ,2026-02-20T13:44:49.290872
-Zeytin Y.ızgara Çeşnili Kg,450.0,https://www.ideal.com.tr/urun/zeytin-yizgara-cesnili-kg/60509 ,2026-02-20T13:44:49.290918
-M.birlik Kuru Sele 400gr Xs-zeytin 321-350,165.0,https://www.ideal.com.tr/urun/mbirlik-kuru-sele-400gr-xs-zeytin-321-350/59753 ,2026-02-20T13:44:49.290961
-Yeşil Hatay Kırması Özel Zeytin Kg,399.9,https://www.ideal.com.tr/urun/yesil-hatay-kirmasi-ozel-zeytin-kg/58614 ,2026-02-20T13:44:49.291005
-Marmarabirlik Kuru Sele 400gr 3xs-zeytin 381-410,149.95,https://www.ideal.com.tr/urun/marmarabirlik-kuru-sele-400gr-3xs-zeytin-381-410/53172 ,2026-02-20T13:44:49.291049
-M.birlik Zeytin Ezmesi 175 Gr Cam,59.9,https://www.ideal.com.tr/urun/mbirlik-zeytin-ezmesi-175-gr-cam/22120 ,2026-02-20T13:44:49.291093
-M.birlik Zeytin Ezmesi 340 Gr Cam,99.9,https://www.ideal.com.tr/urun/mbirlik-zeytin-ezmesi-340-gr-cam/932 ,2026-02-20T13:44:49.291136
-M.birlik Süper 500gr M-zeytin 261-290,129.9,https://www.ideal.com.tr/urun/mbirlik-super-500gr-m-zeytin-261-290/893 ,2026-02-20T13:44:49.291179
-M.birlik Hususi Az Tuzlu 800gr S-zeytin,249.9,https://www.ideal.com.tr/urun/mbirlik-hususi-az-tuzlu-800gr-s-zeytin/890 ,2026-02-20T13:44:49.291222
-M.birlik Hususi Az Tuzlu 400gr S-291-320,132.9,https://www.ideal.com.tr/urun/mbirlik-hususi-az-tuzlu-400gr-s-291-320/889 ,2026-02-20T13:44:49.291265
-M.birlik Zeytin 500gr Elit Vkm.351-380-2xs,79.95,https://www.ideal.com.tr/urun/mbirlik-zeytin-500gr-elit-vkm351-380-2xs/887 ,2026-02-20T13:44:49.291308
+﻿name,price
+Heinz Barbekü Sos 250gr,139.9
+Heinz Hp Barbekü Sos 465gr,199.9
+K.kükrer Nar Ekşisi 250ml Cam,279.9
+Zel Ilikli Kemik Suyu 480ml,62.0
+Kemal Kükrer Soya Sosu 250ml Cam,169.9
+Calve Sos 240gr Cheddar,89.9
+Tat Sos Barbekü 250gr,98.0
+Tat Sos Ranch 220gr,98.0
+Heinz Sarımsak Sosu 230gr,139.9
+Heinz Amerikan Burger Sosu 230gr,139.9
+Heinz Hot Chılı Sos 245gr,139.9
+Heinz Hardal 240gr Mild,167.9
+Calve Sos Hardal 260gr Ballı,139.0
+Heinz Hardal 445gr,259.9
+Kühne Nar Ekşisi 250ml %100 Cam,171.68
+Sosero Acuka 290gr Cam,99.9
+Sosero Acı Biber Sos 355gr Cam,114.9
+Calve Sos Hardal 250gr,125.0
+Calve Sos 265gr Acı,89.9
+Calve Sos 245gr Ranch,89.9
+Calve Sos 290gr Barbekü,89.9
+Kenton Sos Çikolata Aşkı 128gr,64.9
+Barilla Sos 190gr Pesto Genovese,169.9
+Barilla Sos 400gr Basılıco,169.9
+Knorr Çabuk Çorba Mercimek 22gr,15.9
+Dr.oetker Bitter Çikolatalı Sos 122gr,52.13
+Knorr Bulyon 6lt Et 12li,49.9
+Knorr Bulyon 12lt Et 24lü,93.0
+Knorr Bulyon 12lt Tavuk 24lü,93.0
+Knorr Bulyon 3lt Et 6lı Tablet,29.9
+Knorr Bulyon 6lt Tavuk 12li,49.9
+Knorr Bulyon 3lt Tavuk 6lı Tablet,29.9
+Knorr Kls.çorba Mercimek 76gr,29.95
+Knorr Çabuk Çorba Kremalı Mantar 19gr,15.9
+Knorr Çabuk Çorba Ezogelin 22gr,15.9
+Knorr Çabuk Çorba Kremalı Tavuk 18gr,15.9
+Knorr Kls.çorba Kr.domates 69gr,29.95
+Knorr Kls.çorba Kr.tavuk 65gr,29.95
+Knorr Kls.çorba Tarhana 65 Gr,29.95
+Knorr Kls.çorba Kr.mantar 63gr,29.95
+Knorr Kls.çorba Şehr.tavuk 51gr,29.95
+Knorr Kls.çorba Yayla 72gr,29.95
+Knorr Kls.çorba Ezogelin 65gr,29.95
+Knorr Kls.çorba Işkembe 65gr,29.95
+Pınar Hardal 175 Gr Cam,127.0
+Knorr Makarna Sos Domates Spg.bolonez 45gr,59.9
+Knorr Makarna Sos Truf Mantarlı 52gr,59.9
+Knorr Harç Beşamel Sos 70gr,59.9
+Knorr Makarna Sos Fesleğenli 50gr,59.9
+Knorr Makarna Sos Peynirli 50gr,59.9
+Dana Tranç,1200.0
+Dana Ekonomik Kuşbaşı Kg,1150.0
+Dana Kuşbaşı,1150.0
+Dana Kasap Köfte Kg,869.9
+Dana Haşlamalık Kemikli Kg,850.0
+Dana Et Sotelik,1250.0
+Dana Döş (kıyma),799.9
+Dana Antrikot,1950.0
+Kuzu Gerdan Haşlama Kg,895.0
+Kuzu Lokum Kg,1290.0
+Dana Biftek Kg,1250.0
+Dana Osobuko Kg,810.0
+Kuzu Incik Kg,999.9
+Dana Kontrafile Kg,1434.95
+Dana Jülyen,1250.0
+Dana Bonfile,2095.0
+Kuzu Kapama,1100.0
+Kuzu Pirzola,2100.0
+Kuzu Kuşbaşı,1290.0
+Kuzu Külbastı,1690.0
+Kuzu Kol,1100.0
+Kuzu But,1250.0
+Haspiliç Tabaklı Kalçalı But Kg,124.9
+Haspiliç Tavuk Tabaklı Bonfile Kg,269.9
+Haspiliç Tabak Kanat Izgara Kg,284.9
+Haspiliç Tabak Baget Kg,149.9
+Ahmet Ipek Döner 200gr Dana Pişmiş,199.9
+Namet 7/24 Piliç Füme 50gr,33.9
+Namet 7/24 Hindi Salam Fıstıklı 50gr,33.9
+Polonez Sucuk 200gr Dana,360.0
+Balıkye Bando Türk Donuk Somon Dilim 500gr,395.0
+Balıkye Bando Hamsi Vide 1000gr   (temizlenmiş),267.0
+Balıkye Bando Levrek Vide 650gr   (temizlenmiş),569.9
+Danet Geleneksel 300gr Fermente Sucuk,349.9
+Polonez 150gr Xl Hindi Füme,159.0
+Namet 7/24 Hindi Sosis 140gr,57.9
+Namet Sucuk 200gr Dana Kangal Iig,219.9
+Pınar Hindi Sosis 430gr Uzun,204.9
+Çapanoğlu Pastırma Antrikot Kg,2490.0
+Çapan Kavurma Kg,2595.0
+Danet Kavurma 100gr Dilimli,229.9
+Tavuk Dökme But Kalçalı Kg,79.9
+Fırtına Boşnak Usulü Dana Kuru Et Kg,3500.0
+Pınar Aç Bitir Hindi Salam 60gr Büyük Dilim,29.95
+Maret Sosis Afiyetle 200gr Kokteyl,199.9
+Maret Afiyetle 200gr Dana Sucuk,239.9
+Cumhuriyet Sucuk 300gr Kangal,599.9
+Namet Döner 200gr Dana Pişmiş,229.9
+Balıkye Bando Tereyağlı Karides Güveç 400gr,215.0
+Balıkye Bando Levrek Kavurma Güveç 400gr,425.0
