@@ -1,0 +1,42 @@
+name: Daily Mopaş Scraper
+
+# Tells GitHub when to run the script
+on:
+  schedule:
+    # 00:00 UTC translates to 03:00 AM Istanbul time
+    - cron: '0 0 * * *'
+  workflow_dispatch: # This adds a button to the GitHub website so you can test it manually
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Pulls the latest code from the repository
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # 2. Installs Python on the virtual server
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. Installs the libraries your script needs
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 pandas
+
+    # 4. Changes into your specific directory and runs your script
+    - name: Run Python script
+      working-directory: ./mopas_CanCetin
+      run: python mopas_scraper.py
+
+    # 5. Saves the newly generated CSV file back to the repository
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add mopas_CanCetin/data/*
+        git commit -m "Auto-update daily prices CSV for Mopaş" || exit 0
+        git push
